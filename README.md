@@ -1,25 +1,23 @@
 ## ZiTix
 
-# 🟢 Présentation
-Lucas FAUTRERO
+# 🟢 PRESENTATION
+◾️ Lucas FAUTRERO
 
-1G5
+◾️ Première
 
-L'Isle sur la Sorgue
+◾️ Lycée Alphonse Benoit
 
-# 🟢 Langages de programmation
+◾️ L'Isle sur la Sorgue
+
+# 🟢 LANGAGES
 ◾️ HTML CSS JavaScript
 
 ◾️ Python
 
 ◾️ PHP
 
-# 🟢 Deadpool
-Deadpool >>>>>>>
+# 🟢 DEADPOOL
 ![Deadpool Landscape](/deadpool.jpg)
 
-```diff
-+ 
-```
-[![](https://img.shields.io/badge/-JamesgeeK-brightgreen?style=for-the-badge)](https://youtube.com/)
-[![](https://img.shields.io/badge/-ZiTix-red?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+[![](https://img.shields.io/badge/-JamesgeeK-brightgreen?style=for-the-badge)](https://www.youtube.com/c/JamesgeeK_)
+[![](https://img.shields.io/badge/-ZiTix-red?style=for-the-badge)](https://zitix.fr)
