@@ -1,7 +1,11 @@
 ## ZiTix
 
-# 🟢 Presentation
-Lucas FAUTRERO 1G5
+# 🟢 Présentation
+Lucas FAUTRERO
+
+1G5
+
+L'Isle sur la Sorgue
 
 # 🟢 Langages de programmation
 ◾️ HTML CSS JavaScript
