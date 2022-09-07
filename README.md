@@ -21,4 +21,5 @@ Deadpool >>>>>>>
 ```diff
 + 
 ```
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+[![](https://img.shields.io/badge/-JamesgeeK-brightgreen?style=for-the-badge)](https://youtube.com/)
+[![](https://img.shields.io/badge/-ZiTix-red?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
