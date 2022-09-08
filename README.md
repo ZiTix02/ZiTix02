@@ -1,13 +1,13 @@
 ## ZiTix
 
 # 🟢 PRESENTATION
-◾️ Lucas FAUTRERO
+◾️ Lucas
 
 ◾️ Première
 
-◾️ Lycée Alphonse Benoit
+◾️ Lycée
 
-◾️ L'Isle sur la Sorgue
+◾️ Région Sud
 
 # 🟢 LANGAGES
 ◾️ HTML CSS JavaScript
