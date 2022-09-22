@@ -3,9 +3,7 @@
 # 🔷 Présentation
 ◾️ Lucas
 
-◾️ Première
-
-◾️ Lycée
+◾️ Première Lycée Alphonse Benoit
 
 ◾️ Région Sud
 
