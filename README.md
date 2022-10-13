@@ -26,4 +26,4 @@
 
 # 🔷 Amis
 [![](https://img.shields.io/badge/-JamesgeeK-brightgreen?style=for-the-badge)](https://www.youtube.com/c/JamesgeeK_)
-<marquee direction="left" behavior="scroll" scrollamount="6" style="height:200px;width:400px;background-color:#ffffff;font-family:Cursive;font-size:22pt;color:#000000;border-width:0;border-style:dotted;border-color:#000000; " > coucou</marquee>
+<marquee direction="left" behavior="scroll" scrollamount="1" style="height:100px;width:400px;background-color:#ffffff;font-family:Cursive;font-size:22pt;color:#000000;border-width:4;border-style:dotted;border-color:#000000; " > Inscrivez votre texte ici ...</marquee>
