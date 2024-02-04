@@ -1,6 +1,7 @@
 ## ZiTix
 
-# 🔷 Présentation
+Lien vers mon portfolio : [![](https://img.shields.io/badge/-Site%20du%20lyc%C3%A9e-brightgreen?style=for-the-badge)](https://www.lucasftrr.github.io/)
+# Qui suis-je ?
 ◾️ Lucas
 
 ◾️ Première Lycée Alphonse Benoit
