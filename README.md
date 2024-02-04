@@ -12,5 +12,6 @@ Mais j'aime également le Python 🐍
 ## Mes compétences
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" title="HTML">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" title="CSS">
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" title="PYTHON">
 </p>
