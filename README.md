@@ -10,7 +10,7 @@ J'aime particulièrement le développement web avec les langages HTML, CSS, un p
 Mais j'aime également le Python 🐍
 
 ## Mes compétences
-<p style="width:100%;display:flex;align-items:center;">
+<p style="height:10vh;display:flex;align-items:center;">
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" title="HTML">
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" title="CSS">
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" title="PYTHON">
